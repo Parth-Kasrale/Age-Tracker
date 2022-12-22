@@ -1,2 +1,2 @@
 # Age-Tracker
-A basic app to keep track of  people's age.
+A basic app to keep track of people's age.
